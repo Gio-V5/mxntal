@@ -4,6 +4,10 @@
 
 Scarica l'ultima versione: <https://github.com/Gio-V5/mxntal/releases/latest/download/MxntalTweaks.bat>
 
+## 2.4 — 2026-10-27
+
+- Sei voci nuove: app del produttore per i dispositivi, Termina attività dalla barra, Edge senza popup e senza MSN, WPBT, percorsi lunghi
+
 ## 2.3 — 2026-10-26
 
 - Controllo degli aggiornamenti a ogni avvio e, a finestra aperta, ogni ora: prima una volta al giorno.
