@@ -4,6 +4,10 @@
 
 Download the latest version: <https://github.com/Gio-V5/mxntal/releases/latest/download/MxntalTweaks.bat>
 
+## 2.7 — 2026-10-27
+
+- **Mxntal desktop wallpaper** entry in Windows and interface: the M and the lettering on the aurora, drawn at the screen resolution; the previous wallpaper comes back on restore. AnyDesk among the installable apps.
+
 ## 2.6 — 2026-10-27
 
 - Language choice at the first start, with flags: Italian, English, French, Spanish. Change it from the bottom-right button. Window, catalog and check-up are translated; the console stays in Italian.
