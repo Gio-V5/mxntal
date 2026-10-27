@@ -4,6 +4,10 @@
 
 Scarica l'ultima versione: <https://github.com/Gio-V5/mxntal/releases/latest/download/MxntalTweaks.bat>
 
+## 2.7 — 2026-10-27
+
+- Voce **Sfondo del desktop Mxntal** in Windows e interfaccia: la M e la scritta sull'aurora, disegnate alla risoluzione dello schermo; lo sfondo di prima torna dal ripristino. AnyDesk fra le app installabili.
+
 ## 2.6 — 2026-10-27
 
 - Scelta della lingua alla prima apertura, con le bandiere: italiano, inglese, francese, spagnolo. Si cambia dal pulsante in basso a destra. Tradotti finestra, catalogo e check-up; la console resta in italiano.
