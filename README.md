@@ -30,7 +30,7 @@ for the Apps page, winget ("App Installer" from the Microsoft Store).
 
 - **Panoramica** (overview): a check-up with a score and the things to fix, each with the button that
   fixes it; CPU, memory, graphics card and disk in real time; the PC's spec sheet.
-- **Ottimizza** (optimize): 30 entries in 7 categories (power and CPU; gaming and input; Windows and
+- **Ottimizza** (optimize): 36 entries in 7 categories (power and CPU; gaming and input; Windows and
   interface; startup, RAM and background; disk and services; internet and network; advanced). Every entry
   explains what it changes, the risky ones ask for confirmation; "apply the safe ones" and "restore
   category" do it all at once.
