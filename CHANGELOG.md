@@ -4,6 +4,11 @@
 
 Scarica l'ultima versione: <https://github.com/Gio-V5/mxntal/releases/latest/download/MxntalTweaks.bat>
 
+## 2.5 — 2026-10-27
+
+- Finestra **Novità** alla prima apertura dopo un aggiornamento: le righe del changelog delle versioni saltate e le voci nuove di Ottimizza (segnate "nuova"), con il pulsante per vederle. Vale anche se sostituisci il file a mano.
+- Il motore usa `findstr` al posto di `find`: con Git Bash o MSYS nel PATH la selftest e i controlli di servizi, OneDrive ed Esplora risorse non sbagliano più.
+
 ## 2.4 — 2026-10-27
 
 - Sei voci nuove: app del produttore per i dispositivi, Termina attività dalla barra, Edge senza popup e senza MSN, WPBT, percorsi lunghi
