@@ -4,6 +4,10 @@
 
 Download the latest version: <https://github.com/Gio-V5/mxntal/releases/latest/download/MxntalTweaks.bat>
 
+## 2.4 — 2026-10-27
+
+- Six new entries: manufacturer apps for devices off, End task from the taskbar, Edge without pop-ups and without MSN, WPBT, long paths
+
 ## 2.3 — 2026-10-26
 
 - Update check at every start and, while the window is open, every hour: it used to be once a day.
