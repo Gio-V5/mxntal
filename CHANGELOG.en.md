@@ -4,6 +4,11 @@
 
 Download the latest version: <https://github.com/Gio-V5/mxntal/releases/latest/download/MxntalTweaks.bat>
 
+## 2.5 — 2026-10-27
+
+- **What's new** window at the first start after an update: the changelog lines of the versions you skipped and the new Optimize entries (tagged "nuova"), with a button to open them. Also when you replace the file by hand.
+- The engine uses `findstr` instead of `find`: with Git Bash or MSYS in PATH the selftest and the service, OneDrive and Explorer checks no longer fail.
+
 ## 2.4 — 2026-10-27
 
 - Six new entries: manufacturer apps for devices off, End task from the taskbar, Edge without pop-ups and without MSN, WPBT, long paths
