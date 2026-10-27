@@ -2,7 +2,7 @@
 
 [Italiano](CHANGELOG.md) · **English**
 
-Download the latest version: <https://github.com/tecnico-lgtm/mxntal/releases/latest/download/MxntalTweaks.bat>
+Download the latest version: <https://github.com/Gio-V5/mxntal/releases/latest/download/MxntalTweaks.bat>
 
 ## 2.3 — 2026-10-26
 
