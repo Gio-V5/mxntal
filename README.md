@@ -1,91 +1,93 @@
 <p align="center"><img src="docs/brand/mxntal-logo-128.png" width="96" height="96" alt="Mxntal"></p>
 <h1 align="center">Mxntal</h1>
-<p align="center"><strong>Lavora nell'ombra. Tu giochi.</strong></p>
+<p align="center"><strong>Lavora nell'ombra. Tu giochi.</strong> · It works in the shadows. You play.</p>
 <p align="center">
-  <a href="https://github.com/tecnico-lgtm/mxntal/releases/latest"><img src="https://img.shields.io/github/v/release/tecnico-lgtm/mxntal?label=versione&color=8A4FD8" alt="Ultima versione"></a>
-  <a href="https://github.com/tecnico-lgtm/mxntal/releases"><img src="https://img.shields.io/github/downloads/tecnico-lgtm/mxntal/total?label=download&color=8A4FD8" alt="Download"></a>
+  <a href="https://github.com/Gio-V5/mxntal/releases/latest"><img src="https://img.shields.io/github/v/release/Gio-V5/mxntal?label=version&color=8A4FD8" alt="Latest version"></a>
+  <a href="https://github.com/Gio-V5/mxntal/releases"><img src="https://img.shields.io/github/downloads/Gio-V5/mxntal/total?label=downloads&color=8A4FD8" alt="Downloads"></a>
 </p>
-<p align="center"><strong>Italiano</strong> · <a href="README.en.md">English</a></p>
+<p align="center"><strong>English</strong> · <a href="README.it.md">Italiano</a> · <a href="README.es.md">Español</a> · <a href="README.fr.md">Français</a></p>
 
-Mxntal ottimizza Windows 10 e 11 senza scatole nere: ogni modifica ha un motivo scritto, un backup del
-valore di prima e un ripristino con un clic. È un solo file, `MxntalTweaks.bat`, con un'interfaccia
-grafica e, per chi li preferisce, i menu classici in console. Niente da installare.
+Mxntal tunes Windows 10 and 11 with no black boxes: every change has a written reason, a backup of the
+previous value and a one-click restore. It is a single file, `MxntalTweaks.bat`, with a graphical
+interface and, for those who prefer them, the classic console menus. Nothing to install. The interface is
+in Italian.
 
-![La pagina Ottimizza di Mxntal](docs/screenshot-ottimizza.png)
+![Mxntal's Optimize page](docs/screenshot-ottimizza.png)
 
-## Scarica e avvia
+## Download and run
 
-1. Scarica l'ultima versione: **[MxntalTweaks.bat](https://github.com/tecnico-lgtm/mxntal/releases/latest/download/MxntalTweaks.bat)**
-   (circa 640 KB).
-2. Doppio clic: Windows chiede i permessi di amministratore e si apre la finestra. Se rifiuti, Mxntal si
-   chiude senza cambiare nulla.
-3. Al primo avvio Windows può avvisare che l'editore è sconosciuto: succede con ogni file `.bat` scaricato
-   da internet.
+1. Download the latest version: **[MxntalTweaks.bat](https://github.com/Gio-V5/mxntal/releases/latest/download/MxntalTweaks.bat)**
+   (about 640 KB).
+2. Double-click it: Windows asks for administrator rights and the window opens. If you refuse, Mxntal
+   closes without changing anything.
+3. On the first run Windows may warn that the publisher is unknown: that happens with every `.bat` file
+   downloaded from the internet.
 
-Requisiti: Windows 10 o 11 con un account amministratore; Windows PowerShell 5.1 (già in Windows); per la
-pagina App, winget ("Programma di installazione app" dal Microsoft Store).
+Requirements: Windows 10 or 11 with an administrator account; Windows PowerShell 5.1 (already in Windows);
+for the Apps page, winget ("App Installer" from the Microsoft Store).
 
-## Cosa fa
+## What it does
 
-- **Panoramica**: un check-up con punteggio e le cose da sistemare, ognuna con il pulsante per farlo; CPU,
-  memoria, scheda video e disco in tempo reale; la scheda del PC.
-- **Ottimizza**: 30 voci in 7 categorie (Energia e CPU; Gaming e input; Windows e interfaccia; Avvio, RAM
-  e background; Disco e servizi; Internet e rete; Avanzate). Ogni voce spiega cosa cambia, quelle rischiose
-  chiedono conferma; "Applica le sicure" e "Ripristina categoria" per fare tutto in un colpo.
-- **Profili** rapidi: Gaming e Lavoro.
-- **App**: 32 programmi comuni installati con winget, dai pacchetti ufficiali dei produttori.
-- **Pulizia**: file inutili (temporanei, dump, log e, se lo scegli, il Cestino), misurati prima di
-  toglierli; app preinstallate (43 nell'elenco), tolte per l'utente corrente e rimettibili con un clic;
-  programmi che partono con Windows.
-- **Backup**, la macchina del tempo: ogni valore salvato con il suo ripristino, i punti di ripristino di
-  Windows, il riavvio programmato.
-- **Miti sfatati**: i tweak famosi che Mxntal non applica, e perché.
+- **Panoramica** (overview): a check-up with a score and the things to fix, each with the button that
+  fixes it; CPU, memory, graphics card and disk in real time; the PC's spec sheet.
+- **Ottimizza** (optimize): 30 entries in 7 categories (power and CPU; gaming and input; Windows and
+  interface; startup, RAM and background; disk and services; internet and network; advanced). Every entry
+  explains what it changes, the risky ones ask for confirmation; "apply the safe ones" and "restore
+  category" do it all at once.
+- **Profili**: quick profiles, Gaming and Work.
+- **App**: 32 common programs installed with winget, from the makers' official packages.
+- **Pulizia** (cleanup): junk files (temp, dumps, logs and, if you choose, the Recycle Bin), measured
+  before removal; preinstalled apps (43 in the list), removed for the current user and restorable with one
+  click; programs that start with Windows.
+- **Backup**, the time machine: every saved value with its restore, Windows restore points, scheduled
+  restart.
+- **Miti** (busted myths): the famous tweaks Mxntal does not apply, and why.
 
-## Cosa non tocca mai
+## What it never touches
 
-- Microsoft Store, Windows Update, Delivery Optimization, servizi Xbox, Xbox Game Bar e registrazione
-  Game DVR.
-- Niente tweak placebo: Win32PrioritySeparation, NetworkThrottlingIndex, HPET e simili restano fuori; la
-  pagina Miti sfatati spiega perché.
-- Le impostazioni che Windows protegge con il driver UCPD (per esempio i Widgets su alcuni PC): Mxntal non
-  lo aggira, spiega il blocco e porta all'alternativa che Windows accetta.
-- Su un PC in dominio aziendale il DNS resta quello dell'azienda, e le voci delicate (indicizzazione,
-  protezioni di sicurezza, esclusioni Defender, TCP) spiegano il motivo e chiedono conferma.
+- Microsoft Store, Windows Update, Delivery Optimization, Xbox services, Xbox Game Bar and Game DVR
+  recording.
+- No placebo tweaks: Win32PrioritySeparation, NetworkThrottlingIndex, HPET and the like stay out; the
+  Myths page explains why.
+- Settings Windows protects with the UCPD driver (for example Widgets on some PCs): Mxntal does not work
+  around it, it explains the block and points to the alternative Windows allows.
+- On a domain-joined PC the DNS stays the company one, and sensitive entries (indexing, security
+  protections, Defender exclusions, TCP) explain why and ask for confirmation.
 
-## Backup e ripristino
+## Backup and restore
 
-- Prima di ogni modifica il valore originale va in `%LOCALAPPDATA%\MxntalTweaks\Backup\originali`, un file
-  per valore, e resta quello di prima di Mxntal anche se applichi una voce più volte.
-- Ogni scrittura viene riletta: se il valore non è quello voluto, Mxntal lo dice e la voce risulta in
-  errore.
-- Ripristino dalla finestra: Backup, un valore alla volta o tutto insieme; Ottimizza, spegni
-  l'interruttore o Ripristina categoria; Pulizia, Rimetti le app tolte. In console: menu 9.
-- Il log in `%LOCALAPPDATA%\MxntalTweaks\MxntalTweaks.log` registra data, azione, valore prima e dopo ed
-  esito.
-- Senza ritorno solo la pulizia dei file: per questo Mxntal misura prima e chiede conferma.
+- Before every change the original value goes to `%LOCALAPPDATA%\MxntalTweaks\Backup\originali`, one
+  file per value, and it stays the pre-Mxntal value even if you apply an entry several times.
+- Every write is read back: if the value is not the intended one, Mxntal says so and the entry is marked
+  as failed.
+- Restore from the window: Backup, one value at a time or all at once; Ottimizza, flip the switch off or
+  "Ripristina categoria"; Pulizia, "Rimetti le app tolte". In the console: menu 9.
+- The log in `%LOCALAPPDATA%\MxntalTweaks\MxntalTweaks.log` records date, action, value before and after,
+  and the outcome.
+- Only the file cleanup has no undo: that is why Mxntal measures first and asks for confirmation.
 
-## Aggiornamenti
+## Updates
 
-La finestra controlla a ogni avvio, e ogni ora finché resta aperta, se c'è una versione nuova (una
-richiesta HTTPS da 1 KB, nessun dato inviato) e la installa con un clic, solo se è firmata. Il pulsante
-**Controlla aggiornamenti** cerca subito; "Non controllare più gli aggiornamenti" spegne il controllo
-automatico. Le novità di ogni versione sono nel [changelog](CHANGELOG.md).
+At every start, and every hour while it stays open, the window checks for a new version (one 1 KB HTTPS
+request, no data sent) and installs it with one click, only if it is signed. The **Controlla
+aggiornamenti** button checks right away; "Non controllare più gli aggiornamenti" turns the automatic
+check off. What changed in each version is in the [changelog](CHANGELOG.en.md).
 
-## Console classica
+## Classic console
 
-| Comando | Cosa fa |
+| Command | What it does |
 |---|---|
-| `MxntalTweaks.bat /console` | i menu classici in console, con i permessi di amministratore |
-| `MxntalTweaks.bat /dryrun` | anteprima: mostra cosa cambierebbe, non tocca nulla e non chiede i permessi |
-| `MxntalTweaks.bat /doctor` | diagnostica dell'ambiente: admin, Windows, PowerShell, strumenti, spazio, backup |
-| `MxntalTweaks.bat /verify` | stato di ogni voce e controllo dei backup, in sola lettura |
-| `MxntalTweaks.bat /?` | elenco delle modalità |
+| `MxntalTweaks.bat /console` | the classic console menus, with administrator rights |
+| `MxntalTweaks.bat /dryrun` | preview: shows what would change, touches nothing and asks for no rights |
+| `MxntalTweaks.bat /doctor` | environment diagnostics: admin, Windows, PowerShell, tools, space, backups |
+| `MxntalTweaks.bat /verify` | state of every entry and a check of the backups, read-only |
+| `MxntalTweaks.bat /?` | list of modes |
 
-Dalla finestra, il pulsante "Console classica" in basso a destra apre gli stessi menu. Se l'interfaccia
-grafica non può partire (per esempio PowerShell in modalità limitata su un PC aziendale), si aprono i menu
-in console.
+From the window, the "Console classica" button at the bottom right opens the same menus. If the graphical
+interface cannot start (for example PowerShell in constrained mode on a company PC), the console menus
+open instead.
 
-## Problemi e idee
+## Problems and ideas
 
-Apri una [issue](https://github.com/tecnico-lgtm/mxntal/issues) con la versione di Mxntal e, se serve, le
-righe del log che riguardano il problema.
+Open an [issue](https://github.com/Gio-V5/mxntal/issues) with your Mxntal version and, if useful,
+the log lines about the problem. Italian or English, both fine.
