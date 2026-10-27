@@ -4,6 +4,10 @@
 
 Scarica l'ultima versione: <https://github.com/Gio-V5/mxntal/releases/latest/download/MxntalTweaks.bat>
 
+## 2.6 — 2026-10-27
+
+- Scelta della lingua alla prima apertura, con le bandiere: italiano, inglese, francese, spagnolo. Si cambia dal pulsante in basso a destra. Tradotti finestra, catalogo e check-up; la console resta in italiano.
+
 ## 2.5 — 2026-10-27
 
 - Finestra **Novità** alla prima apertura dopo un aggiornamento: le righe del changelog delle versioni saltate e le voci nuove di Ottimizza (segnate "nuova"), con il pulsante per vederle. Vale anche se sostituisci il file a mano.
