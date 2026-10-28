@@ -29,11 +29,11 @@ pagina App, winget ("Programma di installazione app" dal Microsoft Store).
 
 - **Panoramica**: un check-up con punteggio e le cose da sistemare, ognuna con il pulsante per farlo; CPU,
   memoria, scheda video e disco in tempo reale; la scheda del PC.
-- **Ottimizza**: 30 voci in 7 categorie (Energia e CPU; Gaming e input; Windows e interfaccia; Avvio, RAM
+- **Ottimizza**: 36 voci in 7 categorie (Energia e CPU; Gaming e input; Windows e interfaccia; Avvio, RAM
   e background; Disco e servizi; Internet e rete; Avanzate). Ogni voce spiega cosa cambia, quelle rischiose
   chiedono conferma; "Applica le sicure" e "Ripristina categoria" per fare tutto in un colpo.
 - **Profili** rapidi: Gaming e Lavoro.
-- **App**: 32 programmi comuni installati con winget, dai pacchetti ufficiali dei produttori.
+- **App**: 106 programmi comuni in 10 categorie (browser, gaming, periferiche, comunicazione, multimedia, ufficio, utilità, sicurezza, diagnostica, sviluppo), installati con winget dai pacchetti ufficiali dei produttori. Casella di ricerca, e quelli già sul PC sono segnati.
 - **Pulizia**: file inutili (temporanei, dump, log e, se lo scegli, il Cestino), misurati prima di
   toglierli; app preinstallate (43 nell'elenco), tolte per l'utente corrente e rimettibili con un clic;
   programmi che partono con Windows.
