@@ -30,12 +30,12 @@ pour la page App, winget (« Programme d'installation d'application » du Micros
 
 - **Panoramica** (vue d'ensemble) : un bilan avec un score et les choses à corriger, chacune avec le
   bouton pour le faire ; CPU, mémoire, carte graphique et disque en temps réel ; la fiche du PC.
-- **Ottimizza** (optimiser) : 30 réglages en 7 catégories (énergie et CPU ; jeu et périphériques ;
+- **Ottimizza** (optimiser) : 36 réglages en 7 catégories (énergie et CPU ; jeu et périphériques ;
   Windows et interface ; démarrage, RAM et arrière-plan ; disque et services ; internet et réseau ;
   avancés). Chaque réglage explique ce qu'il change, les réglages risqués demandent confirmation ;
   « appliquer les sûrs » et « restaurer la catégorie » font tout d'un coup.
 - **Profili** : profils rapides, Gaming et Travail.
-- **App** : 32 programmes courants installés avec winget, depuis les paquets officiels des éditeurs.
+- **App** : 106 programmes courants en 10 catégories (navigateurs, jeu, périphériques, communication, multimédia, bureautique, utilitaires, sécurité, diagnostic, développement), installés avec winget depuis les paquets officiels des éditeurs. Une recherche, et ceux déjà présents sur le PC sont signalés.
 - **Pulizia** (nettoyage) : fichiers inutiles (temporaires, dumps, journaux et, si vous le choisissez, la
   Corbeille), mesurés avant suppression ; applications préinstallées (43 dans la liste), retirées pour
   l'utilisateur courant et remises en un clic ; programmes lancés au démarrage de Windows.
