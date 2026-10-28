@@ -35,7 +35,7 @@ for the Apps page, winget ("App Installer" from the Microsoft Store).
   explains what it changes, the risky ones ask for confirmation; "apply the safe ones" and "restore
   category" do it all at once.
 - **Profili**: quick profiles, Gaming and Work.
-- **App**: 32 common programs installed with winget, from the makers' official packages.
+- **App**: 106 common programs in 10 categories (browsers, gaming, peripherals, communication, multimedia, office, utilities, security, diagnostics, development), installed with winget from the makers' official packages. A search box, and the ones already on the PC are marked.
 - **Pulizia** (cleanup): junk files (temp, dumps, logs and, if you choose, the Recycle Bin), measured
   before removal; preinstalled apps (43 in the list), removed for the current user and restorable with one
   click; programs that start with Windows.
