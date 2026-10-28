@@ -30,12 +30,12 @@ Windows); para la página App, winget ("Instalador de aplicación" de Microsoft 
 
 - **Panoramica** (resumen): un chequeo con puntuación y las cosas por arreglar, cada una con el botón
   para hacerlo; CPU, memoria, tarjeta gráfica y disco en tiempo real; la ficha del PC.
-- **Ottimizza** (optimizar): 30 ajustes en 7 categorías (energía y CPU; gaming y entrada; Windows e
+- **Ottimizza** (optimizar): 36 ajustes en 7 categorías (energía y CPU; gaming y entrada; Windows e
   interfaz; inicio, RAM y segundo plano; disco y servicios; internet y red; avanzados). Cada ajuste explica
   qué cambia, los arriesgados piden confirmación; "aplicar los seguros" y "restaurar categoría" lo hacen
   todo de una vez.
 - **Profili**: perfiles rápidos, Gaming y Trabajo.
-- **App**: 32 programas comunes instalados con winget, desde los paquetes oficiales de los fabricantes.
+- **App**: 106 programas comunes en 10 categorías (navegadores, gaming, periféricos, comunicación, multimedia, oficina, utilidades, seguridad, diagnóstico, desarrollo), instalados con winget desde los paquetes oficiales de los fabricantes. Con buscador, y los que ya están en el PC aparecen marcados.
 - **Pulizia** (limpieza): archivos inútiles (temporales, volcados, registros y, si lo eliges, la
   Papelera), medidos antes de quitarlos; apps preinstaladas (43 en la lista), quitadas para el usuario
   actual y recuperables con un clic; programas que arrancan con Windows.
