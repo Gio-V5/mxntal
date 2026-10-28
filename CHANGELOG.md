@@ -12,6 +12,10 @@ Scarica l'ultima versione: <https://github.com/Gio-V5/mxntal/releases/latest/dow
 
 - Scelta della lingua alla prima apertura, con le bandiere: italiano, inglese, francese, spagnolo. Si cambia dal pulsante in basso a destra. Tradotti finestra, catalogo e check-up; la console resta in italiano.
 
+## 2.9 — 2026-10-28
+
+- Pacchetti aggiornati al catalogo nuovo. Base: in più Telegram, Notepad++ e Visual C++ x86 (in coppia con x64). Gaming: in più Battle.net e Rockstar Games Launcher.
+
 ## 2.8 — 2026-10-28
 
 - Pagina App: 106 programmi in 10 categorie (prima 33 in 7), ognuno con la sua icona ufficiale, e una casella per cercarli. In console le app si scelgono per categoria.
