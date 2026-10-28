@@ -12,6 +12,11 @@ Scarica l'ultima versione: <https://github.com/Gio-V5/mxntal/releases/latest/dow
 
 - Scelta della lingua alla prima apertura, con le bandiere: italiano, inglese, francese, spagnolo. Si cambia dal pulsante in basso a destra. Tradotti finestra, catalogo e check-up; la console resta in italiano.
 
+## 2.8 — 2026-10-28
+
+- Pagina App: 106 programmi in 10 categorie (prima 33 in 7), ognuno con la sua icona ufficiale, e una casella per cercarli. In console le app si scelgono per categoria.
+- "Installata" ora la decide Programmi installati di Windows (più i pacchetti MSIX), con winget come secondo controllo: Chrome, CrystalDiskInfo e Visual Studio Code non risultano più "da installare" quando ci sono.
+
 ## 2.5 — 2026-10-27
 
 - Finestra **Novità** alla prima apertura dopo un aggiornamento: le righe del changelog delle versioni saltate e le voci nuove di Ottimizza (segnate "nuova"), con il pulsante per vederle. Vale anche se sostituisci il file a mano.
