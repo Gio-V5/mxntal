@@ -12,6 +12,11 @@ Download the latest version: <https://github.com/Gio-V5/mxntal/releases/latest/d
 
 - Language choice at the first start, with flags: Italian, English, French, Spanish. Change it from the bottom-right button. Window, catalog and check-up are translated; the console stays in Italian.
 
+## 2.8 — 2026-10-28
+
+- Apps page: 106 programs in 10 categories (was 33 in 7), each with its official icon, and a search box. In the console the apps are picked by category.
+- "Installed" is now decided by Windows' installed programs list (plus MSIX packages), with winget as a second check: Chrome, CrystalDiskInfo and Visual Studio Code no longer show as "to install" when they are there.
+
 ## 2.5 — 2026-10-27
 
 - **What's new** window at the first start after an update: the changelog lines of the versions you skipped and the new Optimize entries (tagged "nuova"), with a button to open them. Also when you replace the file by hand.
