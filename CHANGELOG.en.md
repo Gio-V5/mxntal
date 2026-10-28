@@ -12,6 +12,10 @@ Download the latest version: <https://github.com/Gio-V5/mxntal/releases/latest/d
 
 - Language choice at the first start, with flags: Italian, English, French, Spanish. Change it from the bottom-right button. Window, catalog and check-up are translated; the console stays in Italian.
 
+## 2.9 — 2026-10-28
+
+- Packs updated to the new catalog. Base: Telegram, Notepad++ and Visual C++ x86 (paired with x64) added. Gaming: Battle.net and Rockstar Games Launcher added.
+
 ## 2.8 — 2026-10-28
 
 - Apps page: 106 programs in 10 categories (was 33 in 7), each with its official icon, and a search box. In the console the apps are picked by category.
